@@ -1,0 +1,14 @@
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\bin\Debug\net8.0\CS.exe
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\bin\Debug\net8.0\CS.deps.json
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\bin\Debug\net8.0\CS.runtimeconfig.json
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\bin\Debug\net8.0\CS.dll
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\bin\Debug\net8.0\CS.pdb
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\CS.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\CS.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\CS.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\CS.dll
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\refint\CS.dll
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\CS.pdb
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\CS.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Desktop\lesson\version_control_mu\CS\obj\Debug\net8.0\ref\CS.dll
